@@ -55,4 +55,4 @@ coverage/
 # API Keys
 API_KEY.txt
 *.key
-*.pem
+*.pem*.cmo3
